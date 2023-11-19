@@ -14,7 +14,7 @@
 	<name>catalog-service</name>
 	<description>Manages books in the catalog</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
